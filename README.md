@@ -98,14 +98,6 @@ ft_lstiter(lst, print_elem);             // prints "one" then "two"
 
 ---
 
-## 📚 Resources
-
-- 📖 “The C Programming Language” by Kernighan & Ritchie  
-- 🖥️ `<string.h>`, `<stdlib.h>`, `<unistd.h>` man pages  
-- 🛠️ Norminette rules: https://github.com/42School/norminette  
-
----
-
 ## 👤 Author
 
 **Nuno Andrezo**  
